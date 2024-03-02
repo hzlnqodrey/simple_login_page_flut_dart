@@ -1,0 +1,10 @@
+Flutlab.io
+
+1. Tulis Code di Main Dart
+2. Tambah Package di Pubspec.yaml
+3. di Navbar Bawah "Pub Commands", tekan Pub Get
+4. CTRL + S atau Liat Icon Run di Navbar atas kiri
+
+in device:
+5. kalau mau share preview programnya, scan QR code
+6. QR Code dari hp terus coba programnya!
